@@ -1,2 +1,2 @@
 # Movie_Recommendation_System
-https://i.kinja-img.com/gawker-media/image/upload/s--e3_2HgIC--/c_scale,f_auto,fl_progressive,q_80,w_800/1259003599478673704.jpg
+![image](https://github.com/vorugantisaiteja/Movie_Recommendation_System/assets/42023876/1c938af2-23e2-46f8-901b-b4ee85a4cbf1)
